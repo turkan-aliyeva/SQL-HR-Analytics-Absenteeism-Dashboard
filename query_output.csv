@@ -1,0 +1,741 @@
+ID,Reason,"Month of absence",season_name,"Day of the week","Body mass index",BMI_Category,Age_Category,Age,"Absenteeism time in hours",Education,"Social drinker","Social smoker",Height,Weight,Son,Pet,"Work load Average/day","Distance from Residence to Work"
+1,"unjustified absence ",7,Summer,3,30,overweight,"middle-aged adult",33,4,1,1,0,172,90,2,1,"239,554",36
+2,Unkown,7,Summer,3,31,obese,"old-aged adult",50,0,1,1,0,178,98,1,0,"239,554",13
+3,"medical consultation ",7,Summer,4,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"239,554",51
+4,"Diseases of the eye and adnexa",7,Summer,5,24,"healthy weight","middle-aged adult",39,4,1,1,1,168,68,2,0,"239,554",5
+5,"medical consultation ",7,Summer,5,30,overweight,"middle-aged adult",33,2,1,1,0,172,90,2,1,"239,554",36
+6,"medical consultation ",7,Summer,6,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"239,554",51
+7,"patient follow-up ",7,Summer,6,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"239,554",52
+8,"medical consultation ",7,Summer,6,23,"healthy weight","middle-aged adult",36,4,1,1,0,168,65,4,0,"239,554",50
+9,"Injury, poisoning and certain other consequences of external causes",7,Summer,2,25,"healthy weight","middle-aged adult",34,40,1,1,0,196,95,2,0,"239,554",12
+10,"patient follow-up ",7,Summer,2,29,overweight,"middle-aged adult",37,8,3,0,0,172,88,1,1,"239,554",11
+11,"Certain infectious and parasitic diseases",7,Summer,2,23,"healthy weight","middle-aged adult",36,8,1,1,0,168,65,4,0,"239,554",50
+12,"Certain infectious and parasitic diseases",7,Summer,3,23,"healthy weight","middle-aged adult",36,8,1,1,0,168,65,4,0,"239,554",50
+13,"Diseases of the digestive system",7,Summer,4,23,"healthy weight","middle-aged adult",36,8,1,1,0,168,65,4,0,"239,554",50
+14,"Diseases of the digestive system",7,Summer,4,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"239,554",51
+15,"medical consultation ",7,Summer,4,31,obese,"middle-aged adult",38,4,1,1,0,170,89,0,0,"239,554",51
+16,"Diseases of the genitourinary system",7,Summer,6,23,"healthy weight","middle-aged adult",41,8,1,1,0,170,67,0,0,"239,554",25
+17,"medical consultation ",7,Summer,6,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"239,554",51
+18,"Factors influencing health status and contact with health services.",7,Summer,2,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"239,554",51
+19,"Diseases of the digestive system",7,Summer,5,25,"healthy weight","middle-aged adult",33,8,1,0,0,167,69,2,2,"239,554",29
+20,"medical consultation ",8,Summer,4,32,obese,"old-aged adult",47,2,1,0,0,165,86,2,1,"205,917",25
+21,"Diseases of the respiratory system",8,Summer,4,25,"healthy weight","yound adult",28,8,2,0,0,182,84,0,0,"205,917",16
+22,"Diseases of the digestive system",8,Summer,2,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"205,917",51
+23,"Diseases of the musculoskeletal system and connective tissue",8,Summer,2,27,overweight,"yound adult",28,40,1,1,0,172,80,1,4,"205,917",52
+24,"dental consultation ",8,Summer,6,23,"healthy weight","middle-aged adult",36,4,1,1,0,168,65,4,0,"205,917",50
+25,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,Summer,2,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"205,917",36
+26,"laboratory examination ",8,Summer,2,27,overweight,"yound adult",28,7,1,1,0,172,80,1,4,"205,917",52
+27,"medical consultation ",8,Summer,3,30,overweight,"middle-aged adult",33,1,1,1,0,172,90,2,1,"205,917",36
+28,"dental consultation ",8,Summer,4,22,"healthy weight","yound adult",29,4,1,1,1,185,75,0,0,"205,917",27
+29,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,Summer,4,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"205,917",36
+30,"medical consultation ",8,Summer,6,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"205,917",51
+31,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,Summer,2,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"205,917",51
+32,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,Summer,5,33,obese,"old-aged adult",48,8,1,0,1,163,88,1,5,"205,917",29
+33,"medical consultation ",8,Summer,5,29,overweight,"middle-aged adult",37,4,3,0,0,172,88,1,1,"205,917",11
+34,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,Summer,2,33,obese,"old-aged adult",48,8,1,0,1,163,88,1,5,"205,917",29
+35,"medical consultation ",8,Summer,2,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"205,917",51
+36,"medical consultation ",8,Summer,2,27,overweight,"yound adult",28,1,1,1,0,172,80,1,4,"205,917",52
+37,"blood donation",8,Summer,3,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"205,917",36
+38,"Diseases of the digestive system",8,Summer,5,23,"healthy weight","middle-aged adult",32,4,1,1,0,169,65,0,0,"205,917",50
+39,"dental consultation ",8,Summer,6,33,obese,"old-aged adult",48,8,1,0,1,163,88,1,5,"205,917",29
+40,"medical consultation ",8,Summer,6,23,"healthy weight","middle-aged adult",36,4,1,1,0,168,65,4,0,"205,917",50
+41,"medical consultation ",9,Fall,3,21,"healthy weight","yound adult",27,2,1,0,0,167,58,0,0,"241,476",42
+42,"medical consultation ",9,Fall,2,28,overweight,"middle-aged adult",37,4,1,0,0,172,83,0,0,"241,476",10
+43,"medical consultation ",9,Fall,3,31,obese,"middle-aged adult",38,4,1,1,0,170,89,0,0,"241,476",51
+44,"Injury, poisoning and certain other consequences of external causes",9,Fall,3,38,obese,"middle-aged adult",43,8,1,1,0,167,106,1,0,"241,476",20
+45,"medical consultation ",9,Fall,4,25,"healthy weight","middle-aged adult",34,2,1,1,0,196,95,2,0,"241,476",12
+46,"medical consultation ",9,Fall,2,28,overweight,"middle-aged adult",37,3,1,0,0,172,83,0,0,"241,476",10
+47,"medical consultation ",9,Fall,3,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"241,476",51
+48,"medical consultation ",9,Fall,5,25,"healthy weight","middle-aged adult",40,4,1,1,0,171,73,1,1,"241,476",31
+49,"patient follow-up ",9,Fall,6,23,"healthy weight","middle-aged adult",36,8,1,1,0,168,65,4,0,"241,476",50
+50,"Diseases of the genitourinary system",9,Fall,2,25,"healthy weight","middle-aged adult",40,32,1,1,0,171,73,1,1,"241,476",31
+51,Unkown,9,Fall,2,23,"healthy weight","middle-aged adult",36,0,1,1,0,168,65,4,0,"241,476",50
+52,Unkown,9,Fall,2,24,"healthy weight","yound adult",28,0,1,0,0,169,69,1,2,"241,476",26
+53,"medical consultation ",9,Fall,3,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"241,476",26
+54,"medical consultation ",9,Fall,3,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"241,476",10
+55,Unkown,9,Fall,3,30,overweight,"middle-aged adult",33,0,1,1,0,172,90,2,1,"241,476",36
+56,Unkown,9,Fall,3,31,obese,"old-aged adult",50,0,1,1,0,178,98,1,0,"241,476",13
+57,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",9,Fall,4,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"241,476",26
+58,"medical consultation ",9,Fall,4,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"241,476",51
+59,Unkown,9,Fall,4,25,"healthy weight","middle-aged adult",31,0,1,1,0,169,70,3,0,"241,476",17
+60,"medical consultation ",9,Fall,6,32,obese,"old-aged adult",47,1,1,0,0,165,86,2,1,"241,476",25
+61,"medical consultation ",9,Fall,6,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"241,476",51
+62,"medical consultation ",9,Fall,6,23,"healthy weight","middle-aged adult",36,4,1,1,0,168,65,4,0,"241,476",50
+63,"medical consultation ",10,Fall,3,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"253,465",51
+64,"medical consultation ",10,Fall,3,28,overweight,"middle-aged adult",37,3,1,0,0,172,83,0,0,"253,465",10
+65,Unkown,10,Fall,4,31,obese,"old-aged adult",50,0,1,1,0,178,98,1,0,"253,465",13
+66,"medical consultation ",10,Fall,5,19,"healthy weight","yound adult",30,1,3,0,0,171,56,0,0,"253,465",26
+67,"medical consultation ",10,Fall,6,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"253,465",51
+68,"medical consultation ",10,Fall,6,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"253,465",26
+69,"medical consultation ",10,Fall,3,28,overweight,"middle-aged adult",37,3,1,0,0,172,83,0,0,"253,465",10
+70,"medical consultation ",10,Fall,4,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"253,465",26
+71,"medical consultation ",10,Fall,4,32,obese,"old-aged adult",47,2,1,0,0,165,86,2,1,"253,465",25
+72,"medical consultation ",10,Fall,5,25,"healthy weight","middle-aged adult",40,5,1,1,0,171,73,1,1,"253,465",31
+73,"medical consultation ",10,Fall,4,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"253,465",51
+74,"medical consultation ",10,Fall,4,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"253,465",26
+75,"Injury, poisoning and certain other consequences of external causes",10,Fall,5,23,"healthy weight","middle-aged adult",36,16,1,1,0,168,65,4,0,"253,465",50
+76,"Diseases of the genitourinary system",10,Fall,3,25,"healthy weight","middle-aged adult",40,8,1,1,0,171,73,1,1,"253,465",31
+77,"dental consultation ",10,Fall,3,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"253,465",26
+78,"unjustified absence ",10,Fall,4,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"253,465",36
+79,"medical consultation ",10,Fall,6,27,overweight,"yound adult",28,1,1,1,0,172,80,1,4,"253,465",52
+80,"dental consultation ",10,Fall,6,23,"healthy weight","middle-aged adult",36,3,1,1,0,168,65,4,0,"253,465",50
+81,"medical consultation ",11,Fall,5,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"306,345",51
+82,"medical consultation ",11,Fall,4,24,"healthy weight","yound adult",28,1,1,0,0,169,69,1,2,"306,345",26
+83,"Diseases of the musculoskeletal system and connective tissue",11,Fall,5,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"306,345",51
+84,"Factors influencing health status and contact with health services.",11,Fall,5,22,"healthy weight","middle-aged adult",40,8,2,0,1,170,63,2,0,"306,345",22
+85,"medical consultation ",11,Fall,5,25,"healthy weight","middle-aged adult",40,5,1,1,0,171,73,1,1,"306,345",31
+86,"Diseases of the respiratory system",11,Fall,2,25,"healthy weight","middle-aged adult",34,32,1,1,0,196,95,2,0,"306,345",12
+87,"patient follow-up ",11,Fall,2,25,"healthy weight","middle-aged adult",33,8,1,0,0,167,69,2,2,"306,345",29
+88,"Diseases of the genitourinary system",11,Fall,2,25,"healthy weight","middle-aged adult",40,40,1,1,0,171,73,1,1,"306,345",31
+89,"medical consultation ",11,Fall,4,24,"healthy weight","yound adult",28,1,1,0,0,169,69,1,2,"306,345",26
+90,"Diseases of the nervous system",11,Fall,6,25,"healthy weight","middle-aged adult",34,8,1,1,0,196,95,2,0,"306,345",12
+91,"medical consultation ",11,Fall,4,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"306,345",26
+92,"Factors influencing health status and contact with health services.",11,Fall,4,22,"healthy weight","middle-aged adult",40,8,2,0,1,170,63,2,0,"306,345",22
+93,"Diseases of the musculoskeletal system and connective tissue",11,Fall,6,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"306,345",26
+94,"dental consultation ",11,Fall,6,23,"healthy weight","middle-aged adult",36,4,1,1,0,168,65,4,0,"306,345",50
+95,"dental consultation ",11,Fall,2,32,obese,"old-aged adult",47,1,1,0,0,165,86,2,1,"306,345",25
+96,"dental consultation ",11,Fall,3,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"306,345",26
+97,"Diseases of the eye and adnexa",11,Fall,4,30,overweight,"middle-aged adult",33,24,1,1,0,172,90,2,1,"306,345",36
+98,"medical consultation ",11,Fall,5,25,"healthy weight","middle-aged adult",40,3,1,1,0,171,73,1,1,"306,345",31
+99,"medical consultation ",12,Winter,3,32,obese,"old-aged adult",47,1,1,0,0,165,86,2,1,"261,306",25
+100,"Injury, poisoning and certain other consequences of external causes",12,Winter,3,28,overweight,"middle-aged adult",37,64,1,0,0,172,83,0,0,"261,306",10
+101,"medical consultation ",12,Winter,4,31,obese,"old-aged adult",50,2,1,1,0,178,98,1,0,"261,306",13
+102,"unjustified absence ",12,Winter,4,29,overweight,"middle-aged adult",37,8,3,0,0,172,88,1,1,"261,306",11
+103,"medical consultation ",12,Winter,5,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"261,306",26
+104,"unjustified absence ",12,Winter,6,23,"healthy weight","middle-aged adult",36,8,1,1,0,168,65,4,0,"261,306",50
+105,"Injury, poisoning and certain other consequences of external causes",12,Winter,3,28,overweight,"middle-aged adult",37,56,1,0,0,172,83,0,0,"261,306",10
+106,"patient follow-up ",12,Winter,4,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"261,306",52
+107,"dental consultation ",12,Winter,5,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"261,306",26
+108,"dental consultation ",12,Winter,6,23,"healthy weight","middle-aged adult",36,3,1,1,0,168,65,4,0,"261,306",50
+109,"medical consultation ",12,Winter,3,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"261,306",26
+110,"patient follow-up ",12,Winter,4,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"261,306",52
+111,"physiotherapy ",12,Winter,6,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"261,306",10
+112,"Injury, poisoning and certain other consequences of external causes",12,Winter,6,23,"healthy weight","middle-aged adult",41,8,1,1,0,170,67,0,0,"261,306",25
+113,"medical consultation ",12,Winter,6,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"261,306",26
+114,"medical consultation ",1,Winter,4,24,"healthy weight","yound adult",28,1,1,0,0,169,69,1,2,"308,593",26
+115,"Injury, poisoning and certain other consequences of external causes",1,Winter,2,28,overweight,"middle-aged adult",37,1,1,0,0,172,83,0,0,"308,593",10
+116,"physiotherapy ",1,Winter,3,28,overweight,"middle-aged adult",37,1,1,0,0,172,83,0,0,"308,593",10
+117,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,Winter,3,25,"healthy weight","middle-aged adult",34,8,1,1,0,196,95,2,0,"308,593",12
+118,"physiotherapy ",1,Winter,4,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"308,593",26
+119,"medical consultation ",1,Winter,5,21,"healthy weight","yound adult",27,2,1,0,0,167,58,0,0,"308,593",42
+120,"dental consultation ",1,Winter,5,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"308,593",26
+121,"physiotherapy ",1,Winter,6,24,"healthy weight","yound adult",28,1,1,0,0,169,69,1,2,"308,593",26
+122,"physiotherapy ",1,Winter,2,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"308,593",10
+123,"physiotherapy ",1,Winter,3,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"308,593",26
+124,"physiotherapy ",1,Winter,3,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"308,593",10
+125,"physiotherapy ",1,Winter,4,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"308,593",10
+126,"physiotherapy ",1,Winter,5,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"308,593",10
+127,"physiotherapy ",1,Winter,6,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"308,593",10
+128,"physiotherapy ",1,Winter,2,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"308,593",10
+129,"physiotherapy ",1,Winter,3,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"308,593",10
+130,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,Winter,3,19,"healthy weight","yound adult",30,8,3,0,0,171,56,0,0,"308,593",26
+131,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,Winter,3,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"308,593",36
+132,"physiotherapy ",1,Winter,4,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"308,593",10
+133,"medical consultation ",1,Winter,5,21,"healthy weight","yound adult",27,2,1,0,0,167,58,0,0,"308,593",42
+134,"physiotherapy ",1,Winter,5,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"308,593",10
+135,"physiotherapy ",1,Winter,2,28,overweight,"middle-aged adult",37,0,1,0,0,172,83,0,0,"308,593",10
+136,"medical consultation ",1,Winter,3,24,"healthy weight","yound adult",28,1,1,0,0,169,69,1,2,"308,593",26
+137,"patient follow-up ",1,Winter,5,30,overweight,"middle-aged adult",33,3,1,1,0,172,90,2,1,"308,593",36
+138,"medical consultation ",2,Winter,6,21,"healthy weight","yound adult",27,1,1,0,0,167,58,0,0,"302,585",42
+139,"Certain infectious and parasitic diseases",2,Winter,4,23,"healthy weight","middle-aged adult",41,8,1,1,0,170,67,0,0,"302,585",25
+140,"Diseases of the digestive system",2,Winter,4,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"302,585",51
+141,"dental consultation ",2,Winter,5,25,"healthy weight","middle-aged adult",34,2,1,1,0,196,95,2,0,"302,585",12
+142,"medical consultation ",2,Winter,5,25,"healthy weight","middle-aged adult",33,8,1,0,0,167,69,2,2,"302,585",29
+143,"dental consultation ",2,Winter,6,23,"healthy weight","middle-aged adult",36,2,1,1,0,168,65,4,0,"302,585",50
+144,"patient follow-up ",2,Winter,6,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"302,585",36
+145,"Diseases of the digestive system",2,Winter,2,24,"healthy weight","old-aged adult",50,8,1,0,0,178,76,0,0,"302,585",15
+146,"Certain infectious and parasitic diseases",2,Winter,3,24,"healthy weight","old-aged adult",50,8,1,0,0,178,76,0,0,"302,585",15
+147,"dental consultation ",2,Winter,2,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"302,585",26
+148,"medical consultation ",2,Winter,3,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"302,585",26
+149,"medical consultation ",2,Winter,3,19,"healthy weight","yound adult",30,1,3,0,0,171,56,0,0,"302,585",26
+150,"medical consultation ",2,Winter,3,21,"healthy weight","yound adult",27,8,1,0,0,167,58,0,0,"302,585",42
+151,"laboratory examination ",2,Winter,5,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"302,585",26
+152,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",2,Winter,2,25,"healthy weight","yound adult",28,8,2,0,0,182,84,0,0,"302,585",16
+153,"medical consultation ",2,Winter,3,25,"healthy weight","yound adult",28,1,2,0,0,182,84,0,0,"302,585",16
+154,"medical consultation ",2,Winter,4,24,"healthy weight","yound adult",28,1,1,0,0,169,69,1,2,"302,585",26
+155,"Injury, poisoning and certain other consequences of external causes",2,Winter,5,25,"healthy weight","middle-aged adult",33,8,1,0,0,167,69,2,2,"302,585",29
+156,"dental consultation ",3,Spring,3,23,"healthy weight","middle-aged adult",32,2,1,1,0,169,65,0,0,"343,253",50
+157,"Injury, poisoning and certain other consequences of external causes",3,Spring,3,23,"healthy weight","middle-aged adult",36,8,1,1,0,168,65,4,0,"343,253",50
+158,"Injury, poisoning and certain other consequences of external causes",3,Spring,3,22,"healthy weight","yound adult",29,3,1,1,1,185,75,0,0,"343,253",27
+159,"Congenital malformations, deformations and chromosomal abnormalities",3,Spring,3,22,"healthy weight","middle-aged adult",40,8,2,0,1,170,63,2,0,"343,253",22
+160,"patient follow-up ",3,Spring,4,25,"healthy weight","middle-aged adult",40,8,1,1,0,171,73,1,1,"343,253",31
+161,"Diseases of the musculoskeletal system and connective tissue",3,Spring,4,23,"healthy weight","middle-aged adult",36,8,1,1,0,168,65,4,0,"343,253",50
+162,"Diseases of the musculoskeletal system and connective tissue",3,Spring,5,19,"healthy weight","yound adult",30,8,3,0,0,171,56,0,0,"343,253",26
+163,"Diseases of the genitourinary system",3,Spring,6,32,obese,"old-aged adult",47,3,1,0,0,165,86,2,1,"343,253",25
+164,"Diseases of the musculoskeletal system and connective tissue",3,Spring,6,23,"healthy weight","middle-aged adult",36,40,1,1,0,168,65,4,0,"343,253",50
+165,"Diseases of the digestive system",3,Spring,2,22,"healthy weight","middle-aged adult",40,40,2,0,1,170,63,2,0,"343,253",22
+166,"Certain infectious and parasitic diseases",3,Spring,2,25,"healthy weight","middle-aged adult",34,16,1,1,0,196,95,2,0,"343,253",12
+167,"unjustified absence ",3,Spring,2,23,"healthy weight","middle-aged adult",36,16,1,1,0,168,65,4,0,"343,253",50
+168,"Diseases of the musculoskeletal system and connective tissue",3,Spring,3,25,"healthy weight","middle-aged adult",34,8,1,1,0,196,95,2,0,"343,253",12
+169,"Diseases of the nervous system",3,Spring,5,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"343,253",36
+170,"Diseases of the ear and mastoid process",3,Spring,5,22,"healthy weight","middle-aged adult",40,8,2,0,1,170,63,2,0,"343,253",22
+171,"dental consultation ",3,Spring,6,23,"healthy weight","middle-aged adult",36,4,1,1,0,168,65,4,0,"343,253",50
+172,"medical consultation ",3,Spring,6,24,"healthy weight","yound adult",28,1,1,0,0,169,69,1,2,"343,253",26
+173,"Diseases of the genitourinary system",3,Spring,2,24,"healthy weight","middle-aged adult",39,8,1,1,1,168,68,2,0,"343,253",5
+174,"Diseases of the musculoskeletal system and connective tissue",3,Spring,3,31,obese,"middle-aged adult",38,24,1,1,0,170,89,0,0,"343,253",51
+175,"medical consultation ",3,Spring,4,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"343,253",26
+176,"Diseases of the digestive system",3,Spring,2,24,"healthy weight","yound adult",28,8,1,0,0,169,69,1,2,"343,253",26
+177,"Diseases of the musculoskeletal system and connective tissue",3,Spring,2,19,"healthy weight","yound adult",30,1,3,0,0,171,56,0,0,"343,253",26
+178,"Diseases of the digestive system",3,Spring,3,24,"healthy weight","yound adult",28,8,1,0,0,169,69,1,2,"343,253",26
+179,"Diseases of the digestive system",3,Spring,4,24,"healthy weight","yound adult",28,16,1,0,0,169,69,1,2,"343,253",26
+180,"Diseases of the musculoskeletal system and connective tissue",3,Spring,4,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"343,253",51
+181,"Diseases of the genitourinary system",3,Spring,5,24,"healthy weight","middle-aged adult",39,16,1,1,1,168,68,2,0,"343,253",5
+182,"dental consultation ",3,Spring,6,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"343,253",26
+183,"Diseases of the genitourinary system",3,Spring,6,32,obese,"old-aged adult",47,3,1,0,0,165,86,2,1,"343,253",25
+184,"dental consultation ",3,Spring,2,24,"healthy weight","yound adult",28,1,1,0,0,169,69,1,2,"343,253",26
+185,"dental consultation ",4,Spring,4,25,"healthy weight","middle-aged adult",40,1,1,1,0,171,73,1,1,"326,452",31
+186,"medical consultation ",4,Spring,4,24,"healthy weight","yound adult",28,1,1,0,0,169,69,1,2,"326,452",26
+187,"dental consultation ",4,Spring,3,25,"healthy weight","middle-aged adult",34,1,1,1,0,196,95,2,0,"326,452",12
+188,"Diseases of the musculoskeletal system and connective tissue",4,Spring,4,23,"healthy weight","middle-aged adult",41,24,1,1,0,170,67,0,0,"326,452",25
+189,"medical consultation ",4,Spring,5,25,"healthy weight","middle-aged adult",34,1,1,1,0,196,95,2,0,"326,452",12
+190,"dental consultation ",4,Spring,6,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"326,452",26
+191,"dental consultation ",4,Spring,6,23,"healthy weight","middle-aged adult",36,4,1,1,0,168,65,4,0,"326,452",50
+192,"Diseases of the musculoskeletal system and connective tissue",4,Spring,4,31,obese,"middle-aged adult",38,24,1,1,0,170,89,0,0,"326,452",51
+193,"medical consultation ",4,Spring,5,31,obese,"old-aged adult",50,1,1,1,0,178,98,1,0,"326,452",13
+194,"medical consultation ",4,Spring,6,25,"healthy weight","middle-aged adult",40,3,1,1,0,171,73,1,1,"326,452",31
+195,"Diseases of the genitourinary system",4,Spring,6,23,"healthy weight","middle-aged adult",41,8,1,1,0,170,67,0,0,"326,452",25
+196,"dental consultation ",4,Spring,6,25,"healthy weight","middle-aged adult",40,1,1,1,0,171,73,1,1,"326,452",31
+197,"dental consultation ",4,Spring,6,32,obese,"old-aged adult",47,8,1,0,0,165,86,2,1,"326,452",25
+198,"Injury, poisoning and certain other consequences of external causes",4,Spring,6,23,"healthy weight","middle-aged adult",36,56,1,1,0,168,65,4,0,"326,452",50
+199,"Injury, poisoning and certain other consequences of external causes",4,Spring,3,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"326,452",36
+200,"Diseases of the skin and subcutaneous tissue",4,Spring,4,25,"healthy weight","middle-aged adult",34,24,1,1,0,196,95,2,0,"326,452",12
+201,"Injury, poisoning and certain other consequences of external causes",4,Spring,4,21,"healthy weight","middle-aged adult",36,8,1,0,1,174,65,2,4,"326,452",49
+202,"Diseases of the musculoskeletal system and connective tissue",4,Spring,5,30,overweight,"middle-aged adult",33,16,1,1,0,172,90,2,1,"326,452",36
+203,"Diseases of the eye and adnexa",4,Spring,6,29,overweight,"middle-aged adult",37,3,3,0,0,172,88,1,1,"326,452",11
+204,Unkown,4,Spring,2,33,obese,"old-aged adult",48,0,1,0,1,163,88,1,5,"326,452",29
+205,"Diseases of the musculoskeletal system and connective tissue",5,Spring,4,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"378,884",36
+206,"dental consultation ",5,Spring,5,25,"healthy weight","middle-aged adult",34,2,1,1,0,196,95,2,0,"378,884",12
+207,"dental consultation ",5,Spring,2,25,"healthy weight","middle-aged adult",34,1,1,1,0,196,95,2,0,"378,884",12
+208,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",5,Spring,3,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"378,884",51
+209,"Injury, poisoning and certain other consequences of external causes",5,Spring,3,24,"healthy weight","yound adult",28,8,1,0,0,169,69,1,2,"378,884",26
+210,"Diseases of the eye and adnexa",5,Spring,4,21,"healthy weight","yound adult",27,4,1,0,0,167,58,0,0,"378,884",42
+211,"dental consultation ",5,Spring,2,25,"healthy weight","middle-aged adult",34,2,1,1,0,196,95,2,0,"378,884",12
+212,"Diseases of the skin and subcutaneous tissue",5,Spring,3,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"378,884",51
+213,"Diseases of the musculoskeletal system and connective tissue",5,Spring,4,30,overweight,"middle-aged adult",33,24,1,1,0,172,90,2,1,"378,884",36
+214,Unkown,5,Spring,4,24,"healthy weight","middle-aged adult",39,0,1,1,1,168,68,2,0,"378,884",5
+215,Unkown,5,Spring,4,25,"healthy weight","yound adult",28,0,2,0,0,182,84,0,0,"378,884",16
+216,Unkown,5,Spring,4,21,"healthy weight","middle-aged adult",36,0,1,0,1,174,65,2,4,"378,884",49
+217,Unkown,5,Spring,4,24,"healthy weight","old-aged adult",50,0,1,0,0,178,76,0,0,"378,884",15
+218,"Diseases of the digestive system",5,Spring,3,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"378,884",51
+219,"Diseases of the musculoskeletal system and connective tissue",5,Spring,4,31,obese,"old-aged adult",50,24,1,1,0,178,98,1,0,"378,884",13
+220,"patient follow-up ",5,Spring,6,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"378,884",52
+221,"Injury, poisoning and certain other consequences of external causes",6,Summer,2,23,"healthy weight","middle-aged adult",41,8,1,1,0,170,67,0,0,"377,550",25
+222,"patient follow-up ",6,Summer,2,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"377,550",52
+223,"Diseases of the respiratory system",6,Summer,3,23,"healthy weight","middle-aged adult",41,24,1,1,0,170,67,0,0,"377,550",25
+224,"medical consultation ",6,Summer,5,25,"healthy weight","middle-aged adult",40,4,1,1,0,171,73,1,1,"377,550",31
+225,"Diseases of the respiratory system",6,Summer,6,23,"healthy weight","middle-aged adult",41,8,1,1,0,170,67,0,0,"377,550",25
+226,"Diseases of the digestive system",6,Summer,2,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"377,550",51
+227,"medical consultation ",6,Summer,2,25,"healthy weight","middle-aged adult",34,4,1,1,0,196,95,2,0,"377,550",12
+228,"Diseases of the respiratory system",6,Summer,2,23,"healthy weight","middle-aged adult",41,8,1,1,0,170,67,0,0,"377,550",25
+229,"Diseases of the musculoskeletal system and connective tissue",6,Summer,4,31,obese,"old-aged adult",50,8,1,1,0,178,98,1,0,"377,550",13
+230,"Diseases of the musculoskeletal system and connective tissue",6,Summer,6,29,overweight,"middle-aged adult",37,16,3,0,0,172,88,1,1,"377,550",11
+231,"medical consultation ",6,Summer,3,31,obese,"old-aged adult",50,1,1,1,0,178,98,1,0,"377,550",13
+232,"Diseases of the musculoskeletal system and connective tissue",6,Summer,4,31,obese,"old-aged adult",50,80,1,1,0,178,98,1,0,"377,550",13
+233,"patient follow-up ",6,Summer,5,21,"healthy weight","middle-aged adult",36,8,1,0,1,174,65,2,4,"377,550",49
+234,"Diseases of the digestive system",6,Summer,6,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"377,550",51
+235,"dental consultation ",6,Summer,2,36,obese,"old-aged adult",49,2,1,0,0,172,108,0,2,"377,550",48
+236,"dental consultation ",6,Summer,5,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"377,550",26
+237,"Injury, poisoning and certain other consequences of external causes",7,Summer,3,25,"healthy weight","middle-aged adult",34,16,1,1,0,196,95,2,0,"275,312",12
+238,"Certain infectious and parasitic diseases",7,Summer,4,31,obese,"old-aged adult",50,8,1,1,0,178,98,1,0,"275,312",13
+239,"Mental and behavioural disorders",7,Summer,6,28,overweight,"middle-aged adult",37,8,1,0,0,172,83,0,0,"275,312",10
+240,"unjustified absence ",7,Summer,6,28,overweight,"middle-aged adult",37,4,1,0,0,172,83,0,0,"275,312",10
+241,"unjustified absence ",7,Summer,3,25,"healthy weight","yound adult",28,8,2,0,0,182,84,0,0,"275,312",16
+242,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",7,Summer,5,19,"healthy weight","yound adult",30,8,3,0,0,171,56,0,0,"275,312",26
+243,"laboratory examination ",7,Summer,6,25,"healthy weight","middle-aged adult",34,2,1,1,0,196,95,2,0,"275,312",12
+244,"Certain infectious and parasitic diseases",7,Summer,2,25,"healthy weight","yound adult",28,8,2,0,0,182,84,0,0,"275,312",16
+245,"Certain infectious and parasitic diseases",7,Summer,3,25,"healthy weight","yound adult",28,8,2,0,0,182,84,0,0,"275,312",16
+246,"laboratory examination ",7,Summer,2,22,"healthy weight","yound adult",29,3,1,1,1,185,75,0,0,"275,312",27
+247,"patient follow-up ",7,Summer,3,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"275,312",52
+248,"unjustified absence ",7,Summer,4,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"275,312",36
+249,"unjustified absence ",7,Summer,5,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"275,312",51
+250,"Injury, poisoning and certain other consequences of external causes",7,Summer,2,30,overweight,"middle-aged adult",33,32,1,1,0,172,90,2,1,"275,312",36
+251,"Injury, poisoning and certain other consequences of external causes",7,Summer,5,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"275,312",36
+252,Unkown,7,Summer,5,23,"healthy weight","middle-aged adult",36,0,1,1,0,168,65,4,0,"275,312",50
+253,"Injury, poisoning and certain other consequences of external causes",8,Summer,6,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"265,615",36
+254,"Injury, poisoning and certain other consequences of external causes",8,Summer,6,22,"healthy weight","yound adult",29,3,1,1,1,185,75,0,0,"265,615",27
+255,"medical consultation ",8,Summer,2,30,overweight,"middle-aged adult",33,1,1,1,0,172,90,2,1,"265,615",36
+256,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,Summer,3,22,"healthy weight","old-aged adult",58,8,1,0,0,172,65,2,1,"265,615",14
+257,"Diseases of the musculoskeletal system and connective tissue",8,Summer,5,25,"healthy weight","middle-aged adult",43,1,1,1,1,175,77,2,1,"265,615",26
+258,"Diseases of the genitourinary system",8,Summer,5,25,"healthy weight","middle-aged adult",43,2,1,1,1,175,77,2,1,"265,615",26
+259,"dental consultation ",8,Summer,6,23,"healthy weight","middle-aged adult",36,4,1,1,0,168,65,4,0,"265,615",50
+260,"medical consultation ",8,Summer,3,30,overweight,"middle-aged adult",33,4,1,1,0,172,90,2,1,"265,615",36
+261,"medical consultation ",8,Summer,4,32,obese,"old-aged adult",47,1,1,0,0,165,86,2,1,"265,615",25
+262,"Diseases of the digestive system",8,Summer,5,25,"healthy weight","middle-aged adult",33,8,2,0,0,178,79,0,0,"265,615",11
+263,"medical consultation ",8,Summer,5,19,"healthy weight","yound adult",30,1,3,0,0,171,56,0,0,"265,615",26
+264,"Diseases of the musculoskeletal system and connective tissue",8,Summer,5,31,obese,"old-aged adult",50,3,1,1,0,178,98,1,0,"265,615",13
+265,"laboratory examination ",8,Summer,2,32,obese,"old-aged adult",47,2,1,0,0,165,86,2,1,"265,615",25
+266,"medical consultation ",8,Summer,3,29,overweight,"middle-aged adult",37,1,3,0,0,172,88,1,1,"265,615",11
+267,"medical consultation ",8,Summer,5,31,obese,"old-aged adult",50,1,1,1,0,178,98,1,0,"265,615",13
+268,"Injury, poisoning and certain other consequences of external causes",8,Summer,5,29,overweight,"middle-aged adult",37,8,3,0,0,172,88,1,1,"265,615",11
+269,"Diseases of the ear and mastoid process",8,Summer,3,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"265,615",52
+270,"Diseases of the nervous system",8,Summer,4,21,"healthy weight","yound adult",27,8,1,0,0,167,58,0,0,"265,615",42
+271,"Diseases of the digestive system",9,Fall,2,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"294,217",51
+272,"medical consultation ",9,Fall,6,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"294,217",51
+273,"Injury, poisoning and certain other consequences of external causes",9,Fall,4,30,overweight,"middle-aged adult",33,24,1,1,0,172,90,2,1,"294,217",36
+274,Unkown,9,Fall,5,38,obese,"middle-aged adult",43,0,1,1,0,167,106,1,0,"294,217",20
+275,"Diseases of the circulatory system",9,Fall,2,23,"healthy weight","middle-aged adult",41,16,1,1,0,170,67,0,0,"294,217",25
+276,"dental consultation ",9,Fall,3,25,"healthy weight","middle-aged adult",40,3,1,1,0,171,73,1,1,"294,217",31
+277,Unkown,9,Fall,3,35,obese,"middle-aged adult",39,0,1,1,0,170,100,2,2,"294,217",35
+278,Unkown,9,Fall,3,23,"healthy weight","middle-aged adult",32,0,1,1,0,169,65,0,0,"294,217",50
+279,"Diseases of the musculoskeletal system and connective tissue",9,Fall,4,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"294,217",51
+280,"Diseases of the circulatory system",9,Fall,4,23,"healthy weight","middle-aged adult",41,32,1,1,0,170,67,0,0,"294,217",25
+281,"medical consultation ",9,Fall,5,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"294,217",51
+282,"dental consultation ",9,Fall,6,25,"healthy weight","middle-aged adult",40,4,1,1,0,171,73,1,1,"294,217",31
+283,"dental consultation ",9,Fall,6,23,"healthy weight","middle-aged adult",36,4,1,1,0,168,65,4,0,"294,217",50
+284,"unjustified absence ",9,Fall,4,38,obese,"middle-aged adult",43,8,1,1,0,167,106,1,0,"294,217",20
+285,"dental consultation ",9,Fall,5,31,obese,"old-aged adult",50,1,1,1,0,178,98,1,0,"294,217",13
+286,Unkown,9,Fall,5,38,obese,"middle-aged adult",43,0,1,1,0,167,106,1,0,"294,217",20
+287,"dental consultation ",9,Fall,6,25,"healthy weight","middle-aged adult",40,3,1,1,0,171,73,1,1,"294,217",31
+288,"Diseases of the eye and adnexa",9,Fall,2,25,"healthy weight","middle-aged adult",40,40,1,1,0,171,73,1,1,"294,217",31
+289,"Diseases of the musculoskeletal system and connective tissue",9,Fall,2,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"294,217",51
+290,"blood donation",10,Fall,2,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"265,017",36
+291,"unjustified absence ",10,Fall,2,29,overweight,"middle-aged adult",37,4,3,0,0,172,88,1,1,"265,017",11
+292,"unjustified absence ",10,Fall,2,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"265,017",36
+293,"patient follow-up ",10,Fall,6,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"265,017",36
+294,Unkown,10,Fall,6,31,obese,"old-aged adult",50,0,1,1,0,178,98,1,0,"265,017",13
+295,Unkown,10,Fall,6,32,obese,"old-aged adult",47,0,1,0,0,165,86,2,1,"265,017",25
+296,"Certain infectious and parasitic diseases",10,Fall,2,19,"healthy weight","yound adult",30,8,3,0,0,171,56,0,0,"265,017",26
+297,"Diseases of the eye and adnexa",10,Fall,2,28,overweight,"middle-aged adult",37,3,1,0,0,172,83,0,0,"265,017",10
+298,"patient follow-up ",10,Fall,2,25,"healthy weight","middle-aged adult",31,8,1,1,0,169,70,3,0,"265,017",17
+299,"dental consultation ",10,Fall,4,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"265,017",51
+300,"Certain infectious and parasitic diseases",10,Fall,4,19,"healthy weight","yound adult",30,64,3,0,0,171,56,0,0,"265,017",26
+301,Unkown,10,Fall,4,38,obese,"middle-aged adult",43,0,1,1,0,167,106,1,0,"265,017",20
+302,"Injury, poisoning and certain other consequences of external causes",10,Fall,5,30,overweight,"middle-aged adult",33,16,1,1,0,172,90,2,1,"265,017",36
+303,"dental consultation ",10,Fall,6,23,"healthy weight","middle-aged adult",36,3,1,1,0,168,65,4,0,"265,017",50
+304,Unkown,10,Fall,6,38,obese,"middle-aged adult",43,0,1,1,0,167,106,1,0,"265,017",20
+305,"medical consultation ",10,Fall,2,38,obese,"middle-aged adult",43,2,1,1,0,167,106,1,0,"265,017",20
+306,"medical consultation ",10,Fall,2,38,obese,"middle-aged adult",43,2,1,1,0,167,106,1,0,"265,017",20
+307,"dental consultation ",10,Fall,3,31,obese,"old-aged adult",50,1,1,1,0,178,98,1,0,"265,017",13
+308,"dental consultation ",10,Fall,3,25,"healthy weight","middle-aged adult",40,4,1,1,0,171,73,1,1,"265,017",31
+309,"medical consultation ",10,Fall,5,19,"healthy weight","yound adult",30,16,3,0,0,171,56,0,0,"265,017",26
+310,"dental consultation ",10,Fall,5,31,obese,"old-aged adult",50,1,1,1,0,178,98,1,0,"265,017",13
+311,"Diseases of the respiratory system",10,Fall,2,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"265,017",52
+312,Unkown,10,Fall,3,23,"healthy weight","middle-aged adult",36,0,1,1,0,168,65,4,0,"265,017",50
+313,Unkown,10,Fall,3,25,"healthy weight","middle-aged adult",40,0,1,1,0,171,73,1,1,"265,017",31
+314,Unkown,10,Fall,3,22,"healthy weight","yound adult",29,0,1,1,1,185,75,0,0,"265,017",27
+315,"Certain infectious and parasitic diseases",10,Fall,4,19,"healthy weight","yound adult",30,5,3,0,0,171,56,0,0,"265,017",26
+316,"Diseases of the eye and adnexa",10,Fall,4,19,"healthy weight","yound adult",30,5,3,0,0,171,56,0,0,"265,017",26
+317,"medical consultation ",10,Fall,5,31,obese,"old-aged adult",50,1,1,1,0,178,98,1,0,"265,017",13
+318,"Diseases of the digestive system",11,Fall,2,28,overweight,"middle-aged adult",37,8,1,0,0,172,83,0,0,"284,031",10
+319,"medical consultation ",11,Fall,2,32,obese,"old-aged adult",47,2,1,0,0,165,86,2,1,"284,031",25
+320,"Diseases of the nervous system",11,Fall,3,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"284,031",51
+321,"dental consultation ",11,Fall,6,23,"healthy weight","middle-aged adult",36,3,1,1,0,168,65,4,0,"284,031",50
+322,"medical consultation ",11,Fall,2,25,"healthy weight","middle-aged adult",40,1,1,1,0,171,73,1,1,"284,031",31
+323,"Certain infectious and parasitic diseases",11,Fall,2,21,"healthy weight","middle-aged adult",36,8,1,0,1,174,65,2,4,"284,031",49
+324,"Diseases of the digestive system",11,Fall,2,25,"healthy weight","middle-aged adult",34,120,1,1,0,196,95,2,0,"284,031",12
+325,"unjustified absence ",11,Fall,2,38,obese,"middle-aged adult",43,8,1,1,0,167,106,1,0,"284,031",20
+326,Unkown,11,Fall,3,25,"healthy weight","yound adult",28,0,2,0,0,182,84,0,0,"284,031",16
+327,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",11,Fall,4,29,overweight,"middle-aged adult",37,1,3,0,0,172,88,1,1,"284,031",11
+328,"Diseases of the digestive system",11,Fall,4,28,overweight,"middle-aged adult",37,3,1,0,0,172,83,0,0,"284,031",10
+329,"laboratory examination ",11,Fall,5,29,overweight,"middle-aged adult",37,2,3,0,0,172,88,1,1,"284,031",11
+330,"dental consultation ",11,Fall,5,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"284,031",51
+331,"Diseases of the musculoskeletal system and connective tissue",11,Fall,6,23,"healthy weight","middle-aged adult",41,8,1,1,0,170,67,0,0,"284,031",25
+332,"Diseases of the skin and subcutaneous tissue",11,Fall,6,25,"healthy weight","middle-aged adult",40,4,1,1,0,171,73,1,1,"284,031",31
+333,"Diseases of the musculoskeletal system and connective tissue",11,Fall,2,23,"healthy weight","middle-aged adult",41,8,1,1,0,170,67,0,0,"284,031",25
+334,"dental consultation ",11,Fall,3,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"284,031",51
+335,"Diseases of the respiratory system",11,Fall,4,23,"healthy weight","middle-aged adult",36,8,1,1,0,168,65,4,0,"284,031",50
+336,"Pregnancy, childbirth and the puerperium",11,Fall,6,23,"healthy weight","middle-aged adult",36,8,1,1,0,168,65,4,0,"284,031",50
+337,Unkown,11,Fall,6,21,"healthy weight","middle-aged adult",36,0,1,0,1,174,65,2,4,"284,031",49
+338,Unkown,11,Fall,3,24,"healthy weight","middle-aged adult",39,0,1,1,1,168,68,2,0,"284,031",5
+339,"medical consultation ",11,Fall,5,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"284,031",51
+340,"Diseases of the skin and subcutaneous tissue",12,Winter,2,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"236,629",26
+341,"dental consultation ",12,Winter,2,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"236,629",51
+342,"dental consultation ",12,Winter,2,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"236,629",51
+343,"medical consultation ",12,Winter,2,29,overweight,"middle-aged adult",37,3,3,0,0,172,88,1,1,"236,629",11
+344,"dental consultation ",12,Winter,3,31,obese,"old-aged adult",50,1,1,1,0,178,98,1,0,"236,629",13
+345,"dental consultation ",12,Winter,6,23,"healthy weight","middle-aged adult",36,4,1,1,0,168,65,4,0,"236,629",50
+346,"Endocrine, nutritional and metabolic diseases",12,Winter,5,23,"healthy weight","middle-aged adult",41,8,1,1,0,170,67,0,0,"236,629",25
+347,"dental consultation ",12,Winter,5,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"236,629",51
+348,"dental consultation ",12,Winter,6,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"236,629",51
+349,"medical consultation ",12,Winter,3,19,"healthy weight","yound adult",30,1,3,0,0,171,56,0,0,"236,629",26
+350,"laboratory examination ",12,Winter,3,28,overweight,"middle-aged adult",37,8,1,0,0,172,83,0,0,"236,629",10
+351,"laboratory examination ",12,Winter,5,29,overweight,"middle-aged adult",37,2,3,0,0,172,88,1,1,"236,629",11
+352,"dental consultation ",12,Winter,6,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"236,629",51
+353,"Diseases of the musculoskeletal system and connective tissue",12,Winter,3,38,obese,"middle-aged adult",43,8,1,1,0,167,106,1,0,"236,629",20
+354,"Diseases of the genitourinary system",12,Winter,3,29,overweight,"middle-aged adult",37,4,3,0,0,172,88,1,1,"236,629",11
+355,"unjustified absence ",12,Winter,4,23,"healthy weight","middle-aged adult",36,8,1,1,0,168,65,4,0,"236,629",50
+356,"dental consultation ",12,Winter,2,22,"healthy weight","yound adult",29,2,1,1,1,185,75,0,0,"236,629",27
+357,"dental consultation ",12,Winter,2,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"236,629",51
+358,"Injury, poisoning and certain other consequences of external causes",12,Winter,2,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"236,629",36
+359,"medical consultation ",1,Winter,4,24,"healthy weight","yound adult",28,5,1,0,0,169,69,1,2,"330,061",26
+360,"Injury, poisoning and certain other consequences of external causes",1,Winter,2,28,overweight,"middle-aged adult",37,32,1,0,0,172,83,0,0,"330,061",10
+361,"medical consultation ",1,Winter,2,25,"healthy weight","middle-aged adult",34,2,1,1,0,196,95,2,0,"330,061",12
+362,"Diseases of the musculoskeletal system and connective tissue",1,Winter,3,29,overweight,"middle-aged adult",37,1,3,0,0,172,88,1,1,"330,061",11
+363,"medical consultation ",1,Winter,3,25,"healthy weight","middle-aged adult",34,4,1,1,0,196,95,2,0,"330,061",12
+364,"unjustified absence ",1,Winter,2,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"330,061",36
+365,"Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",1,Winter,4,25,"healthy weight","middle-aged adult",40,8,1,1,0,171,73,1,1,"330,061",31
+366,"unjustified absence ",1,Winter,2,38,obese,"middle-aged adult",43,8,1,1,0,167,106,1,0,"330,061",20
+367,"unjustified absence ",1,Winter,2,31,obese,"old-aged adult",50,4,1,1,0,178,98,1,0,"330,061",13
+368,"dental consultation ",1,Winter,4,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"330,061",51
+369,"dental consultation ",1,Winter,6,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"330,061",51
+370,"dental consultation ",2,Winter,3,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"251,818",10
+371,"physiotherapy ",2,Winter,4,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"251,818",51
+372,"Diseases of the eye and adnexa",2,Winter,4,24,"healthy weight","yound adult",28,1,1,0,0,169,69,1,2,"251,818",26
+373,"patient follow-up ",2,Winter,6,30,overweight,"middle-aged adult",33,3,1,1,0,172,90,2,1,"251,818",36
+374,"dental consultation ",2,Winter,6,23,"healthy weight","middle-aged adult",36,3,1,1,0,168,65,4,0,"251,818",50
+375,"medical consultation ",2,Winter,6,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"251,818",51
+376,"physiotherapy ",2,Winter,2,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"251,818",51
+377,"physiotherapy ",2,Winter,4,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"251,818",51
+378,"Diseases of the respiratory system",2,Winter,5,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"251,818",51
+379,"unjustified absence ",2,Winter,5,23,"healthy weight","middle-aged adult",41,8,1,1,0,170,67,0,0,"251,818",25
+380,"physiotherapy ",2,Winter,6,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"251,818",51
+381,"patient follow-up ",2,Winter,2,25,"healthy weight","middle-aged adult",33,8,1,0,0,167,69,2,2,"251,818",29
+382,"physiotherapy ",2,Winter,2,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"251,818",51
+383,"medical consultation ",2,Winter,3,23,"healthy weight","middle-aged adult",41,2,1,1,0,170,67,0,0,"251,818",25
+384,"medical consultation ",2,Winter,3,25,"healthy weight","middle-aged adult",40,2,1,1,0,171,73,1,1,"251,818",31
+385,"Diseases of the digestive system",2,Winter,4,22,"healthy weight","yound adult",29,16,1,1,1,185,75,0,0,"251,818",27
+386,"physiotherapy ",2,Winter,4,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"251,818",51
+387,"physiotherapy ",2,Winter,6,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"251,818",51
+388,"Diseases of the respiratory system",2,Winter,6,23,"healthy weight","middle-aged adult",41,24,1,1,0,170,67,0,0,"251,818",25
+389,"physiotherapy ",2,Winter,4,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"251,818",51
+390,"physiotherapy ",2,Winter,6,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"251,818",51
+391,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",3,Spring,3,28,overweight,"middle-aged adult",37,8,1,0,0,172,83,0,0,"244,387",10
+392,"Injury, poisoning and certain other consequences of external causes",3,Spring,4,23,"healthy weight","middle-aged adult",41,16,1,1,0,170,67,0,0,"244,387",25
+393,"dental consultation ",3,Spring,6,23,"healthy weight","middle-aged adult",41,2,1,1,0,170,67,0,0,"244,387",25
+394,"dental consultation ",3,Spring,6,23,"healthy weight","middle-aged adult",36,4,1,1,0,168,65,4,0,"244,387",50
+395,"dental consultation ",3,Spring,2,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"244,387",51
+396,"patient follow-up ",3,Spring,2,29,overweight,"middle-aged adult",37,8,3,0,0,172,88,1,1,"244,387",11
+397,"patient follow-up ",3,Spring,3,22,"healthy weight","middle-aged adult",40,8,2,0,1,170,63,2,0,"244,387",22
+398,"patient follow-up ",3,Spring,3,21,"healthy weight","middle-aged adult",36,8,1,0,1,174,65,2,4,"244,387",49
+399,"dental consultation ",3,Spring,2,31,obese,"middle-aged adult",38,16,1,1,0,170,89,0,0,"244,387",51
+400,"patient follow-up ",3,Spring,4,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"244,387",52
+401,Unkown,3,Spring,4,25,"healthy weight","middle-aged adult",31,0,1,1,0,169,70,3,0,"244,387",17
+402,"Factors influencing health status and contact with health services.",3,Spring,5,29,overweight,"middle-aged adult",37,8,3,0,0,172,88,1,1,"244,387",11
+403,"medical consultation ",3,Spring,6,31,obese,"old-aged adult",50,2,1,1,0,178,98,1,0,"244,387",13
+404,"Diseases of the genitourinary system",3,Spring,3,31,obese,"old-aged adult",50,3,1,1,0,178,98,1,0,"244,387",13
+405,"Diseases of the musculoskeletal system and connective tissue",3,Spring,4,31,obese,"old-aged adult",50,8,1,1,0,178,98,1,0,"244,387",13
+406,Unkown,3,Spring,5,29,overweight,"middle-aged adult",37,0,3,0,0,172,88,1,1,"244,387",11
+407,Unkown,3,Spring,5,23,"healthy weight","middle-aged adult",41,0,1,1,0,170,67,0,0,"244,387",25
+408,Unkown,3,Spring,5,31,obese,"old-aged adult",50,0,1,1,0,178,98,1,0,"244,387",13
+409,"dental consultation ",3,Spring,6,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"244,387",51
+410,"patient follow-up ",3,Spring,6,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"244,387",36
+411,"Injury, poisoning and certain other consequences of external causes",3,Spring,2,23,"healthy weight","middle-aged adult",36,8,1,1,0,168,65,4,0,"244,387",50
+412,"dental consultation ",3,Spring,3,23,"healthy weight","middle-aged adult",41,2,1,1,0,170,67,0,0,"244,387",25
+413,"dental consultation ",4,Spring,4,31,obese,"middle-aged adult",38,4,1,1,0,170,89,0,0,"239,409",51
+414,"dental consultation ",4,Spring,6,23,"healthy weight","middle-aged adult",36,3,1,1,0,168,65,4,0,"239,409",50
+415,"unjustified absence ",4,Spring,6,25,"healthy weight","yound adult",28,4,2,0,0,182,84,0,0,"239,409",16
+416,"patient follow-up ",4,Spring,2,25,"healthy weight","middle-aged adult",31,4,1,1,0,169,70,3,0,"239,409",17
+417,"unjustified absence ",4,Spring,2,32,obese,"old-aged adult",47,4,1,0,0,165,86,2,1,"239,409",25
+418,"medical consultation ",4,Spring,4,25,"healthy weight","yound adult",28,8,2,0,0,182,84,0,0,"239,409",16
+419,"dental consultation ",4,Spring,4,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"239,409",51
+420,"medical consultation ",4,Spring,2,31,obese,"old-aged adult",50,1,1,1,0,178,98,1,0,"239,409",13
+421,"Diseases of the musculoskeletal system and connective tissue",4,Spring,4,31,obese,"old-aged adult",50,120,1,1,0,178,98,1,0,"239,409",13
+422,"dental consultation ",4,Spring,6,25,"healthy weight","middle-aged adult",43,8,1,1,1,175,77,2,1,"239,409",26
+423,"dental consultation ",4,Spring,6,23,"healthy weight","middle-aged adult",36,4,1,1,0,168,65,4,0,"239,409",50
+424,"dental consultation ",4,Spring,2,31,obese,"middle-aged adult",38,4,1,1,0,170,89,0,0,"239,409",51
+425,"Diseases of the digestive system",4,Spring,4,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"239,409",10
+426,"Diseases of the musculoskeletal system and connective tissue",5,Spring,2,38,obese,"middle-aged adult",43,16,1,1,0,167,106,1,0,"246,074",20
+427,"medical consultation ",5,Spring,4,32,obese,"old-aged adult",47,2,1,0,0,165,86,2,1,"246,074",25
+428,"Diseases of the respiratory system",5,Spring,2,25,"healthy weight","middle-aged adult",31,8,1,1,0,169,70,3,0,"246,074",17
+429,"medical consultation ",5,Spring,4,19,"healthy weight","yound adult",30,3,3,0,0,171,56,0,0,"246,074",26
+430,"dental consultation ",5,Spring,4,31,obese,"middle-aged adult",38,4,1,1,0,170,89,0,0,"246,074",51
+431,"medical consultation ",5,Spring,5,27,overweight,"yound adult",28,1,1,1,0,172,80,1,4,"246,074",52
+432,"dental consultation ",5,Spring,6,23,"healthy weight","middle-aged adult",36,3,1,1,0,168,65,4,0,"246,074",50
+433,"Diseases of the digestive system",5,Spring,2,22,"healthy weight","middle-aged adult",40,2,2,0,1,170,63,2,0,"246,074",22
+434,"Diseases of the ear and mastoid process",5,Spring,2,22,"healthy weight","middle-aged adult",40,3,2,0,1,170,63,2,0,"246,074",22
+435,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",5,Spring,4,22,"healthy weight","old-aged adult",58,8,1,0,0,172,65,2,1,"246,074",14
+436,"laboratory examination ",5,Spring,4,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"246,074",26
+437,"Diseases of the musculoskeletal system and connective tissue",5,Spring,6,25,"healthy weight","yound adult",28,8,2,0,0,182,84,0,0,"246,074",16
+438,"laboratory examination ",5,Spring,2,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"246,074",26
+439,"dental consultation ",5,Spring,2,28,overweight,"middle-aged adult",37,1,1,0,0,172,83,0,0,"246,074",10
+440,"Certain infectious and parasitic diseases",5,Spring,2,29,overweight,"middle-aged adult",37,8,3,0,0,172,88,1,1,"246,074",11
+441,"medical consultation ",5,Spring,4,19,"healthy weight","yound adult",30,3,3,0,0,171,56,0,0,"246,074",26
+442,"medical consultation ",6,Summer,2,28,overweight,"middle-aged adult",37,3,1,0,0,172,83,0,0,"253,957",10
+443,"dental consultation ",6,Summer,2,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"253,957",51
+444,"dental consultation ",6,Summer,3,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"253,957",10
+445,"medical consultation ",6,Summer,5,24,"healthy weight","yound adult",28,4,1,0,0,169,69,1,2,"253,957",26
+446,"dental consultation ",6,Summer,6,23,"healthy weight","middle-aged adult",36,4,1,1,0,168,65,4,0,"253,957",50
+447,Unkown,6,Summer,6,31,obese,"middle-aged adult",38,0,1,1,0,170,89,0,0,"253,957",51
+448,"Diseases of the musculoskeletal system and connective tissue",6,Summer,2,25,"healthy weight","middle-aged adult",40,40,1,1,0,171,73,1,1,"253,957",31
+449,"dental consultation ",6,Summer,2,31,obese,"middle-aged adult",38,24,1,1,0,170,89,0,0,"253,957",51
+450,"dental consultation ",6,Summer,3,23,"healthy weight","middle-aged adult",41,3,1,1,0,170,67,0,0,"253,957",25
+451,"dental consultation ",6,Summer,2,31,obese,"middle-aged adult",38,4,1,1,0,170,89,0,0,"253,957",51
+452,"unjustified absence ",6,Summer,3,38,obese,"middle-aged adult",43,8,1,1,0,167,106,1,0,"253,957",20
+453,"dental consultation ",6,Summer,2,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"253,957",51
+454,"medical consultation ",6,Summer,4,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"253,957",26
+455,"medical consultation ",6,Summer,4,31,obese,"old-aged adult",50,2,1,1,0,178,98,1,0,"253,957",13
+456,"Mental and behavioural disorders",6,Summer,4,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"253,957",51
+457,"Factors influencing health status and contact with health services.",6,Summer,4,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"253,957",26
+458,"dental consultation ",6,Summer,6,23,"healthy weight","middle-aged adult",41,2,1,1,0,170,67,0,0,"253,957",25
+459,"Diseases of the digestive system",6,Summer,3,25,"healthy weight","yound adult",28,1,2,0,0,182,84,0,0,"253,957",16
+460,"Diseases of the musculoskeletal system and connective tissue",6,Summer,3,29,overweight,"middle-aged adult",37,8,3,0,0,172,88,1,1,"253,957",11
+461,"medical consultation ",7,Summer,5,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"230,290",26
+462,"laboratory examination ",7,Summer,5,24,"healthy weight","yound adult",28,4,1,0,0,169,69,1,2,"230,290",26
+463,"Diseases of the musculoskeletal system and connective tissue",7,Summer,6,23,"healthy weight","middle-aged adult",36,8,1,1,0,168,65,4,0,"230,290",50
+464,"Diseases of the eye and adnexa",7,Summer,2,25,"healthy weight","middle-aged adult",33,8,2,0,0,178,79,0,0,"230,290",11
+465,"laboratory examination ",7,Summer,6,25,"healthy weight","yound adult",28,8,2,0,0,182,84,0,0,"230,290",16
+466,"unjustified absence ",7,Summer,6,28,overweight,"middle-aged adult",37,8,1,0,0,172,83,0,0,"230,290",10
+467,"unjustified absence ",7,Summer,2,23,"healthy weight","middle-aged adult",36,4,1,1,0,168,65,4,0,"230,290",50
+468,"dental consultation ",7,Summer,3,28,overweight,"middle-aged adult",37,8,1,0,0,172,83,0,0,"230,290",10
+469,"Pregnancy, childbirth and the puerperium",7,Summer,2,25,"healthy weight","middle-aged adult",43,8,1,1,1,175,77,2,1,"230,290",26
+470,"medical consultation ",7,Summer,2,33,obese,"old-aged adult",48,1,1,0,1,163,88,1,5,"230,290",29
+471,"dental consultation ",7,Summer,3,23,"healthy weight","middle-aged adult",41,2,1,1,0,170,67,0,0,"230,290",25
+472,"Diseases of the circulatory system",7,Summer,3,24,"healthy weight","yound adult",28,112,1,0,0,169,69,1,2,"230,290",26
+473,"dental consultation ",7,Summer,3,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"230,290",51
+474,"medical consultation ",7,Summer,6,31,obese,"old-aged adult",50,1,1,1,0,178,98,1,0,"230,290",13
+475,"patient follow-up ",7,Summer,6,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"230,290",52
+476,"patient follow-up ",7,Summer,2,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"230,290",36
+477,"unjustified absence ",7,Summer,2,38,obese,"middle-aged adult",43,8,1,1,0,167,106,1,0,"230,290",20
+478,"dental consultation ",7,Summer,3,23,"healthy weight","middle-aged adult",41,2,1,1,0,170,67,0,0,"230,290",25
+479,"dental consultation ",7,Summer,5,25,"healthy weight","middle-aged adult",40,1,1,1,0,171,73,1,1,"230,290",31
+480,"medical consultation ",7,Summer,5,24,"healthy weight","middle-aged adult",39,2,1,1,1,168,68,2,0,"230,290",5
+481,"laboratory examination ",8,Summer,5,31,obese,"middle-aged adult",38,4,1,1,0,170,89,0,0,"249,797",51
+482,"laboratory examination ",8,Summer,2,22,"healthy weight","middle-aged adult",40,1,2,0,1,170,63,2,0,"249,797",22
+483,"dental consultation ",8,Summer,3,23,"healthy weight","middle-aged adult",41,4,1,1,0,170,67,0,0,"249,797",25
+484,"dental consultation ",8,Summer,3,28,overweight,"middle-aged adult",37,4,1,0,0,172,83,0,0,"249,797",10
+485,"unjustified absence ",8,Summer,3,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"249,797",36
+486,"unjustified absence ",8,Summer,3,38,obese,"middle-aged adult",43,8,1,1,0,167,106,1,0,"249,797",20
+487,"dental consultation ",8,Summer,5,25,"healthy weight","middle-aged adult",40,4,1,1,0,171,73,1,1,"249,797",31
+488,"laboratory examination ",8,Summer,2,31,obese,"middle-aged adult",38,4,1,1,0,170,89,0,0,"249,797",51
+489,"laboratory examination ",8,Summer,3,22,"healthy weight","middle-aged adult",40,8,2,0,1,170,63,2,0,"249,797",22
+490,"medical consultation ",8,Summer,5,25,"healthy weight","yound adult",28,16,2,0,0,182,84,0,0,"249,797",16
+491,"medical consultation ",8,Summer,3,29,overweight,"middle-aged adult",37,4,3,0,0,172,88,1,1,"249,797",11
+492,"dental consultation ",8,Summer,3,23,"healthy weight","middle-aged adult",41,1,1,1,0,170,67,0,0,"249,797",25
+493,"dental consultation ",8,Summer,3,28,overweight,"middle-aged adult",37,5,1,0,0,172,83,0,0,"249,797",10
+494,"dental consultation ",8,Summer,5,25,"healthy weight","middle-aged adult",40,2,1,1,0,171,73,1,1,"249,797",31
+495,"dental consultation ",8,Summer,2,23,"healthy weight","middle-aged adult",36,3,1,1,0,168,65,4,0,"249,797",50
+496,"dental consultation ",9,Fall,3,23,"healthy weight","middle-aged adult",41,1,1,1,0,170,67,0,0,"261,756",25
+497,"dental consultation ",9,Fall,3,23,"healthy weight","middle-aged adult",41,1,1,1,0,170,67,0,0,"261,756",25
+498,"dental consultation ",9,Fall,3,28,overweight,"middle-aged adult",37,3,1,0,0,172,83,0,0,"261,756",10
+499,"medical consultation ",9,Fall,3,25,"healthy weight","middle-aged adult",34,2,1,1,0,196,95,2,0,"261,756",12
+500,"dental consultation ",9,Fall,5,25,"healthy weight","middle-aged adult",40,2,1,1,0,171,73,1,1,"261,756",31
+501,"medical consultation ",9,Fall,6,19,"healthy weight","yound adult",30,8,3,0,0,171,56,0,0,"261,756",26
+502,"medical consultation ",9,Fall,6,32,obese,"old-aged adult",47,1,1,0,0,165,86,2,1,"261,756",25
+503,"medical consultation ",9,Fall,2,31,obese,"middle-aged adult",38,4,1,1,0,170,89,0,0,"261,756",51
+504,"medical consultation ",9,Fall,4,24,"healthy weight","yound adult",28,1,1,0,0,169,69,1,2,"261,756",26
+505,"medical consultation ",9,Fall,2,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"261,756",26
+506,"medical consultation ",9,Fall,3,25,"healthy weight","middle-aged adult",31,8,1,1,0,169,70,3,0,"261,756",17
+507,"patient follow-up ",9,Fall,3,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"261,756",52
+508,"Endocrine, nutritional and metabolic diseases",10,Fall,5,36,obese,"old-aged adult",49,1,1,0,0,172,108,0,2,"284,853",48
+509,"Diseases of the digestive system",10,Fall,5,25,"healthy weight","middle-aged adult",32,3,3,0,0,178,75,0,0,"284,853",16
+510,"unjustified absence ",10,Fall,6,23,"healthy weight","middle-aged adult",41,8,1,1,0,170,67,0,0,"284,853",25
+511,"Diseases of the genitourinary system",10,Fall,4,36,obese,"old-aged adult",49,3,1,0,0,172,108,0,2,"284,853",48
+512,"dental consultation ",10,Fall,4,25,"healthy weight","middle-aged adult",40,2,1,1,0,171,73,1,1,"284,853",31
+513,"medical consultation ",10,Fall,3,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"284,853",10
+514,"medical consultation ",10,Fall,5,36,obese,"old-aged adult",49,2,1,0,0,172,108,0,2,"284,853",48
+515,"medical consultation ",10,Fall,6,25,"healthy weight","middle-aged adult",40,1,1,1,0,171,73,1,1,"284,853",31
+516,"medical consultation ",10,Fall,3,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"284,853",26
+517,"medical consultation ",10,Fall,3,25,"healthy weight","middle-aged adult",31,8,1,1,0,169,70,3,0,"284,853",17
+518,"medical consultation ",10,Fall,3,25,"healthy weight","middle-aged adult",31,3,1,1,0,169,70,3,0,"284,853",17
+519,"medical consultation ",10,Fall,3,24,"healthy weight","yound adult",28,4,1,0,0,169,69,1,2,"284,853",26
+520,"unjustified absence ",10,Fall,3,25,"healthy weight","middle-aged adult",31,8,1,1,0,169,70,3,0,"284,853",17
+521,"dental consultation ",10,Fall,4,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"284,853",51
+522,"Certain infectious and parasitic diseases",10,Fall,4,22,"healthy weight","old-aged adult",58,1,1,0,0,172,65,2,1,"284,853",14
+523,"medical consultation ",10,Fall,4,25,"healthy weight","middle-aged adult",40,1,1,1,0,171,73,1,1,"284,853",31
+524,"Diseases of the respiratory system",10,Fall,5,25,"healthy weight","middle-aged adult",31,8,1,1,0,169,70,3,0,"284,853",17
+525,"Diseases of the musculoskeletal system and connective tissue",10,Fall,5,24,"healthy weight","yound adult",28,1,1,0,0,169,69,1,2,"284,853",26
+526,"Diseases of the respiratory system",10,Fall,6,25,"healthy weight","middle-aged adult",31,8,1,1,0,169,70,3,0,"284,853",17
+527,"Diseases of the respiratory system",10,Fall,6,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"284,853",26
+528,"medical consultation ",10,Fall,2,25,"healthy weight","middle-aged adult",33,8,1,0,0,167,69,2,2,"284,853",29
+529,"Diseases of the nervous system",10,Fall,2,25,"healthy weight","middle-aged adult",32,8,3,0,0,178,75,0,0,"284,853",16
+530,"Diseases of the respiratory system",10,Fall,2,32,obese,"old-aged adult",47,8,1,0,0,165,86,2,1,"284,853",25
+531,Unkown,10,Fall,2,24,"healthy weight","yound adult",28,0,1,0,0,169,69,1,2,"284,853",26
+532,"Diseases of the musculoskeletal system and connective tissue",10,Fall,3,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"284,853",26
+533,"Factors influencing health status and contact with health services.",11,Fall,3,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"268,519",51
+534,"dental consultation ",11,Fall,4,28,overweight,"middle-aged adult",37,3,1,0,0,172,83,0,0,"268,519",10
+535,Neoplasms,11,Fall,4,25,"healthy weight","yound adult",28,24,2,0,0,182,84,0,0,"268,519",16
+536,"dental consultation ",11,Fall,6,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"268,519",51
+537,"Diseases of the circulatory system",11,Fall,3,28,overweight,"middle-aged adult",37,8,1,0,0,172,83,0,0,"268,519",10
+538,"blood donation",11,Fall,4,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"268,519",36
+539,"Certain infectious and parasitic diseases",11,Fall,6,25,"healthy weight","middle-aged adult",32,8,3,0,0,178,75,0,0,"268,519",16
+540,"medical consultation ",11,Fall,6,24,"healthy weight","yound adult",28,4,1,0,0,169,69,1,2,"268,519",26
+541,"patient follow-up ",11,Fall,3,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"268,519",52
+542,"dental consultation ",11,Fall,4,25,"healthy weight","middle-aged adult",40,2,1,1,0,171,73,1,1,"268,519",31
+543,"Diseases of the musculoskeletal system and connective tissue",11,Fall,5,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"268,519",10
+544,"Diseases of the genitourinary system",11,Fall,5,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"268,519",26
+545,"dental consultation ",11,Fall,2,31,obese,"middle-aged adult",38,1,1,1,0,170,89,0,0,"268,519",51
+546,"medical consultation ",11,Fall,2,28,overweight,"middle-aged adult",37,8,1,0,0,172,83,0,0,"268,519",10
+547,"Diseases of the ear and mastoid process",11,Fall,3,28,overweight,"middle-aged adult",37,8,1,0,0,172,83,0,0,"268,519",10
+548,"medical consultation ",11,Fall,3,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"268,519",26
+549,Unkown,11,Fall,3,25,"healthy weight","middle-aged adult",40,0,1,1,0,171,73,1,1,"268,519",31
+550,Unkown,11,Fall,4,30,overweight,"middle-aged adult",33,0,1,1,0,172,90,2,1,"268,519",36
+551,"Diseases of the genitourinary system",11,Fall,5,32,obese,"old-aged adult",47,4,1,0,0,165,86,2,1,"268,519",25
+552,Unkown,11,Fall,5,38,obese,"middle-aged adult",43,0,1,1,0,167,106,1,0,"268,519",20
+553,"medical consultation ",11,Fall,6,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"268,519",26
+554,"unjustified absence ",11,Fall,6,25,"healthy weight","middle-aged adult",31,8,1,1,0,169,70,3,0,"268,519",17
+555,"dental consultation ",11,Fall,2,27,overweight,"yound adult",28,2,1,1,0,172,80,1,4,"268,519",52
+556,"Diseases of the musculoskeletal system and connective tissue",12,Winter,3,31,obese,"middle-aged adult",38,32,1,1,0,170,89,0,0,"280,549",51
+557,"dental consultation ",12,Winter,4,25,"healthy weight","middle-aged adult",40,1,1,1,0,171,73,1,1,"280,549",31
+558,"medical consultation ",12,Winter,4,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"280,549",26
+559,"Diseases of the musculoskeletal system and connective tissue",12,Winter,6,19,"healthy weight","yound adult",30,1,3,0,0,171,56,0,0,"280,549",26
+560,"medical consultation ",12,Winter,6,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"280,549",26
+561,"medical consultation ",12,Winter,4,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"280,549",26
+562,"Diseases of the genitourinary system",12,Winter,5,27,overweight,"yound adult",28,4,1,1,0,172,80,1,4,"280,549",52
+563,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",12,Winter,6,22,"healthy weight","middle-aged adult",40,2,2,0,1,170,63,2,0,"280,549",22
+564,"unjustified absence ",12,Winter,6,38,obese,"middle-aged adult",43,8,1,1,0,167,106,1,0,"280,549",20
+565,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",12,Winter,2,21,"healthy weight","middle-aged adult",31,8,2,1,0,178,68,1,8,"280,549",51
+566,"Diseases of the musculoskeletal system and connective tissue",12,Winter,3,19,"healthy weight","yound adult",30,16,3,0,0,171,56,0,0,"280,549",26
+567,"medical consultation ",12,Winter,3,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"280,549",26
+568,"medical consultation ",12,Winter,5,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"280,549",26
+569,"medical consultation ",12,Winter,2,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"280,549",26
+570,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",12,Winter,3,25,"healthy weight","middle-aged adult",34,80,1,1,0,196,95,2,0,"280,549",12
+571,"Diseases of the skin and subcutaneous tissue",1,Winter,2,19,"healthy weight","yound adult",30,24,3,0,0,171,56,0,0,"313,532",26
+572,"Diseases of the skin and subcutaneous tissue",1,Winter,5,19,"healthy weight","yound adult",30,16,3,0,0,171,56,0,0,"313,532",26
+573,"laboratory examination ",1,Winter,5,22,"healthy weight","middle-aged adult",40,2,2,0,1,170,63,2,0,"313,532",22
+574,"laboratory examination ",1,Winter,6,22,"healthy weight","middle-aged adult",40,2,2,0,1,170,63,2,0,"313,532",22
+575,"Diseases of the musculoskeletal system and connective tissue",1,Winter,2,19,"healthy weight","yound adult",30,3,3,0,0,171,56,0,0,"313,532",26
+576,"laboratory examination ",1,Winter,4,22,"healthy weight","middle-aged adult",40,2,2,0,1,170,63,2,0,"313,532",22
+577,"Diseases of the respiratory system",1,Winter,5,36,obese,"old-aged adult",49,8,1,0,0,172,108,0,2,"313,532",48
+578,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,Winter,6,22,"healthy weight","middle-aged adult",40,3,2,0,1,170,63,2,0,"313,532",22
+579,"physiotherapy ",1,Winter,2,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"313,532",26
+580,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,Winter,3,25,"healthy weight","middle-aged adult",34,8,1,1,0,196,95,2,0,"313,532",12
+581,"physiotherapy ",1,Winter,4,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"313,532",26
+582,"physiotherapy ",1,Winter,4,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"313,532",51
+583,"Diseases of the musculoskeletal system and connective tissue",1,Winter,4,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"313,532",36
+584,"physiotherapy ",1,Winter,5,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"313,532",51
+585,"physiotherapy ",1,Winter,6,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"313,532",51
+586,"Diseases of the musculoskeletal system and connective tissue",2,Winter,3,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"264,249",51
+587,"medical consultation ",2,Winter,3,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"264,249",26
+588,"Certain infectious and parasitic diseases",2,Winter,4,32,obese,"old-aged adult",47,8,1,0,0,165,86,2,1,"264,249",25
+589,"physiotherapy ",2,Winter,4,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"264,249",51
+590,"dental consultation ",2,Winter,5,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"264,249",26
+591,"physiotherapy ",2,Winter,5,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"264,249",51
+592,"physiotherapy ",2,Winter,5,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"264,249",26
+593,"dental consultation ",2,Winter,6,28,overweight,"middle-aged adult",41,2,4,1,0,182,94,2,2,"264,249",15
+594,"physiotherapy ",2,Winter,6,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"264,249",51
+595,"Injury, poisoning and certain other consequences of external causes",2,Winter,2,21,"healthy weight","middle-aged adult",31,2,2,1,0,178,68,1,8,"264,249",51
+596,"physiotherapy ",2,Winter,2,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"264,249",51
+597,"Diseases of the eye and adnexa",2,Winter,3,24,"healthy weight","yound adult",28,8,1,0,0,169,69,1,2,"264,249",26
+598,"physiotherapy ",2,Winter,4,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"264,249",51
+599,"physiotherapy ",2,Winter,5,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"264,249",51
+600,"laboratory examination ",2,Winter,5,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"264,249",26
+601,"Diseases of the musculoskeletal system and connective tissue",2,Winter,5,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"264,249",26
+602,"medical consultation ",2,Winter,6,22,"healthy weight","middle-aged adult",40,2,2,0,1,170,63,2,0,"264,249",22
+603,"physiotherapy ",2,Winter,6,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"264,249",51
+604,"Diseases of the skin and subcutaneous tissue",2,Winter,4,21,"healthy weight","middle-aged adult",31,3,2,1,0,178,68,1,8,"264,249",51
+605,"physiotherapy ",2,Winter,4,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"264,249",26
+606,"physiotherapy ",2,Winter,4,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"264,249",51
+607,"Diseases of the musculoskeletal system and connective tissue",2,Winter,5,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"264,249",51
+608,"physiotherapy ",2,Winter,6,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"264,249",51
+609,"laboratory examination ",2,Winter,2,25,"healthy weight","middle-aged adult",34,5,1,1,0,196,95,2,0,"264,249",12
+610,"laboratory examination ",2,Winter,2,25,"healthy weight","middle-aged adult",32,3,3,0,0,178,75,0,0,"264,249",16
+611,"physiotherapy ",2,Winter,2,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"264,249",51
+612,"Diseases of the eye and adnexa",2,Winter,2,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"264,249",26
+613,"physiotherapy ",2,Winter,3,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"264,249",51
+614,"medical consultation ",2,Winter,3,32,obese,"old-aged adult",47,2,1,0,0,165,86,2,1,"264,249",25
+615,"laboratory examination ",2,Winter,3,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"264,249",26
+616,"physiotherapy ",2,Winter,4,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"264,249",51
+617,"physiotherapy ",2,Winter,5,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"264,249",51
+618,"laboratory examination ",2,Winter,6,25,"healthy weight","middle-aged adult",32,2,3,0,0,178,75,0,0,"264,249",16
+619,"physiotherapy ",3,Spring,2,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"222,196",51
+620,"medical consultation ",3,Spring,2,32,obese,"old-aged adult",47,2,1,0,0,165,86,2,1,"222,196",25
+621,"laboratory examination ",3,Spring,3,22,"healthy weight","old-aged adult",58,3,1,0,0,172,65,2,1,"222,196",14
+622,"laboratory examination ",3,Spring,3,32,obese,"old-aged adult",47,3,1,0,0,165,86,2,1,"222,196",25
+623,"Diseases of the skin and subcutaneous tissue",3,Spring,3,22,"healthy weight","old-aged adult",58,112,1,0,0,172,65,2,1,"222,196",14
+624,"physiotherapy ",3,Spring,4,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"222,196",51
+625,"physiotherapy ",3,Spring,5,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"222,196",26
+626,"physiotherapy ",3,Spring,5,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"222,196",51
+627,"laboratory examination ",3,Spring,5,24,"healthy weight","yound adult",28,2,1,0,0,169,69,1,2,"222,196",26
+628,"physiotherapy ",3,Spring,6,19,"healthy weight","yound adult",30,3,3,0,0,171,56,0,0,"222,196",26
+629,"laboratory examination ",3,Spring,2,25,"healthy weight","middle-aged adult",32,3,3,0,0,178,75,0,0,"222,196",16
+630,"Injury, poisoning and certain other consequences of external causes",3,Spring,2,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"222,196",52
+631,"Diseases of the musculoskeletal system and connective tissue",3,Spring,3,31,obese,"middle-aged adult",38,8,1,1,0,170,89,0,0,"222,196",51
+632,"physiotherapy ",3,Spring,4,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"222,196",51
+633,"physiotherapy ",3,Spring,5,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"222,196",51
+634,"physiotherapy ",3,Spring,6,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"222,196",26
+635,"Diseases of the respiratory system",3,Spring,2,31,obese,"middle-aged adult",38,4,1,1,0,170,89,0,0,"222,196",51
+636,"Diseases of the musculoskeletal system and connective tissue",3,Spring,2,32,obese,"old-aged adult",47,2,1,0,0,165,86,2,1,"222,196",25
+637,"physiotherapy ",3,Spring,2,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"222,196",51
+638,"Diseases of the eye and adnexa",3,Spring,2,24,"healthy weight","yound adult",28,8,1,0,0,169,69,1,2,"222,196",26
+639,"physiotherapy ",3,Spring,3,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"222,196",51
+640,"medical consultation ",3,Spring,4,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"222,196",36
+641,"laboratory examination ",3,Spring,4,22,"healthy weight","old-aged adult",58,2,1,0,0,172,65,2,1,"222,196",14
+642,"physiotherapy ",3,Spring,4,31,obese,"middle-aged adult",38,2,1,1,0,170,89,0,0,"222,196",51
+643,"medical consultation ",3,Spring,5,32,obese,"old-aged adult",47,3,1,0,0,165,86,2,1,"222,196",25
+644,"physiotherapy ",3,Spring,5,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"222,196",51
+645,"medical consultation ",3,Spring,6,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"222,196",26
+646,"physiotherapy ",3,Spring,6,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"222,196",51
+647,"physiotherapy ",3,Spring,3,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"222,196",51
+648,"medical consultation ",3,Spring,4,25,"healthy weight","old-aged adult",46,8,1,1,1,175,75,2,0,"222,196",15
+649,"Diseases of the musculoskeletal system and connective tissue",3,Spring,4,25,"healthy weight","middle-aged adult",34,24,1,1,0,196,95,2,0,"222,196",12
+650,"physiotherapy ",3,Spring,4,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"222,196",51
+651,"physiotherapy ",3,Spring,5,31,obese,"middle-aged adult",38,3,1,1,0,170,89,0,0,"222,196",51
+652,"Diseases of the musculoskeletal system and connective tissue",3,Spring,2,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"222,196",26
+653,"Injury, poisoning and certain other consequences of external causes",3,Spring,2,30,overweight,"middle-aged adult",33,104,1,1,0,172,90,2,1,"222,196",36
+654,"patient follow-up ",3,Spring,4,25,"healthy weight","middle-aged adult",31,8,1,1,0,169,70,3,0,"222,196",17
+655,"Diseases of the musculoskeletal system and connective tissue",4,Spring,2,24,"healthy weight","yound adult",28,8,1,0,0,169,69,1,2,"246,288",26
+656,"Diseases of the respiratory system",4,Spring,2,28,overweight,"middle-aged adult",37,8,1,0,0,172,83,0,0,"246,288",10
+657,"Injury, poisoning and certain other consequences of external causes",4,Spring,3,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"246,288",52
+658,"Injury, poisoning and certain other consequences of external causes",4,Spring,4,32,obese,"old-aged adult",47,8,1,0,0,165,86,2,1,"246,288",25
+659,"Diseases of the musculoskeletal system and connective tissue",4,Spring,5,25,"healthy weight","middle-aged adult",33,8,1,0,0,167,69,2,2,"246,288",29
+660,"physiotherapy ",4,Spring,6,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"246,288",26
+661,"Diseases of the eye and adnexa",4,Spring,2,25,"healthy weight","middle-aged adult",31,24,1,1,0,169,70,3,0,"246,288",17
+662,"Certain conditions originating in the perinatal period",4,Spring,3,22,"healthy weight","middle-aged adult",40,2,2,0,1,170,63,2,0,"246,288",22
+663,"medical consultation ",4,Spring,3,31,obese,"old-aged adult",50,3,1,1,0,178,98,1,0,"246,288",13
+664,"medical consultation ",4,Spring,3,27,overweight,"yound adult",28,2,1,1,0,172,80,1,4,"246,288",52
+665,"Diseases of the respiratory system",4,Spring,4,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"246,288",10
+666,"patient follow-up ",4,Spring,6,29,overweight,"middle-aged adult",37,8,3,0,0,172,88,1,1,"246,288",11
+667,"physiotherapy ",4,Spring,6,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"246,288",26
+668,"Injury, poisoning and certain other consequences of external causes",4,Spring,2,24,"healthy weight","yound adult",28,8,1,0,0,169,69,1,2,"246,288",26
+669,"Certain conditions originating in the perinatal period",4,Spring,3,25,"healthy weight","middle-aged adult",32,3,3,0,0,178,75,0,0,"246,288",16
+670,"physiotherapy ",4,Spring,6,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"246,288",26
+671,"dental consultation ",4,Spring,3,25,"healthy weight","middle-aged adult",34,4,1,1,0,196,95,2,0,"246,288",12
+672,"Injury, poisoning and certain other consequences of external causes",4,Spring,5,24,"healthy weight","yound adult",28,8,1,0,0,169,69,1,2,"246,288",26
+673,"Diseases of the genitourinary system",4,Spring,5,31,obese,"old-aged adult",50,2,1,1,0,178,98,1,0,"246,288",13
+674,"physiotherapy ",4,Spring,6,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"246,288",26
+675,"patient follow-up ",5,Spring,2,29,overweight,"middle-aged adult",37,8,3,0,0,172,88,1,1,"237,656",11
+676,"Injury, poisoning and certain other consequences of external causes",5,Spring,4,28,overweight,"middle-aged adult",41,3,4,1,0,182,94,2,2,"237,656",15
+677,"dental consultation ",5,Spring,4,25,"healthy weight","middle-aged adult",32,2,3,0,0,178,75,0,0,"237,656",16
+678,"Diseases of the ear and mastoid process",5,Spring,4,28,overweight,"middle-aged adult",37,3,1,0,0,172,83,0,0,"237,656",10
+679,"unjustified absence ",5,Spring,4,38,obese,"middle-aged adult",43,8,1,1,0,167,106,1,0,"237,656",20
+680,"Diseases of the musculoskeletal system and connective tissue",5,Spring,5,19,"healthy weight","yound adult",30,1,3,0,0,171,56,0,0,"237,656",26
+681,"dental consultation ",5,Spring,5,25,"healthy weight","middle-aged adult",40,2,1,1,0,171,73,1,1,"237,656",31
+682,"Diseases of the genitourinary system",5,Spring,5,28,overweight,"middle-aged adult",41,8,4,1,0,182,94,2,2,"237,656",15
+683,"Injury, poisoning and certain other consequences of external causes",5,Spring,6,25,"healthy weight","middle-aged adult",43,64,1,1,1,175,77,2,1,"237,656",26
+684,"patient follow-up ",5,Spring,6,28,overweight,"middle-aged adult",41,8,4,1,0,182,94,2,2,"237,656",15
+685,"physiotherapy ",5,Spring,6,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"237,656",26
+686,"medical consultation ",5,Spring,2,31,obese,"old-aged adult",50,2,1,1,0,178,98,1,0,"237,656",13
+687,"Mental and behavioural disorders",5,Spring,3,31,obese,"old-aged adult",50,3,1,1,0,178,98,1,0,"237,656",13
+688,"dental consultation ",5,Spring,3,28,overweight,"middle-aged adult",37,1,1,0,0,172,83,0,0,"237,656",10
+689,Unkown,5,Spring,3,31,obese,"old-aged adult",50,0,1,1,0,178,98,1,0,"237,656",13
+690,"physiotherapy ",5,Spring,4,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"237,656",26
+691,Unkown,5,Spring,4,21,"healthy weight","middle-aged adult",36,0,1,0,1,174,65,2,4,"237,656",49
+692,"Certain conditions originating in the perinatal period",5,Spring,6,22,"healthy weight","middle-aged adult",40,1,2,0,1,170,63,2,0,"237,656",22
+693,"Diseases of the respiratory system",5,Spring,2,25,"healthy weight","middle-aged adult",34,48,1,1,0,196,95,2,0,"237,656",12
+694,"Diseases of the respiratory system",5,Spring,2,25,"healthy weight","middle-aged adult",32,8,3,0,0,178,75,0,0,"237,656",16
+695,"patient follow-up ",5,Spring,4,25,"healthy weight","middle-aged adult",40,8,1,1,0,171,73,1,1,"237,656",31
+696,"Diseases of the respiratory system",5,Spring,4,22,"healthy weight","middle-aged adult",40,8,2,0,1,170,63,2,0,"237,656",22
+697,"Diseases of the nervous system",5,Spring,4,24,"healthy weight","yound adult",28,3,1,0,0,169,69,1,2,"237,656",26
+698,"Diseases of the respiratory system",5,Spring,5,25,"healthy weight","yound adult",28,8,2,0,0,182,84,0,0,"237,656",16
+699,"medical consultation ",5,Spring,5,25,"healthy weight","middle-aged adult",32,2,3,0,0,178,75,0,0,"237,656",16
+700,"dental consultation ",5,Spring,5,25,"healthy weight","middle-aged adult",40,2,1,1,0,171,73,1,1,"237,656",31
+701,"physiotherapy ",5,Spring,6,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"237,656",26
+702,"Diseases of the eye and adnexa",5,Spring,2,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"237,656",52
+703,"medical consultation ",5,Spring,4,25,"healthy weight","middle-aged adult",34,2,1,1,0,196,95,2,0,"237,656",12
+704,"laboratory examination ",5,Spring,6,22,"healthy weight","middle-aged adult",40,8,2,0,1,170,63,2,0,"237,656",22
+705,"Diseases of the respiratory system",5,Spring,6,25,"healthy weight","middle-aged adult",34,8,1,1,0,196,95,2,0,"237,656",12
+706,"Diseases of the digestive system",5,Spring,2,24,"healthy weight","yound adult",28,1,1,0,0,169,69,1,2,"237,656",26
+707,"Diseases of the eye and adnexa",6,Summer,4,25,"healthy weight","old-aged adult",46,8,1,1,1,175,75,2,0,"275,089",15
+708,"physiotherapy ",6,Summer,4,19,"healthy weight","yound adult",30,3,3,0,0,171,56,0,0,"275,089",26
+709,"unjustified absence ",6,Summer,6,28,overweight,"middle-aged adult",37,8,1,0,0,172,83,0,0,"275,089",10
+710,"Diseases of the respiratory system",6,Summer,4,28,overweight,"middle-aged adult",37,8,1,0,0,172,83,0,0,"275,089",10
+711,"patient follow-up ",6,Summer,5,21,"healthy weight","middle-aged adult",36,8,1,0,1,174,65,2,4,"275,089",49
+712,"Injury, poisoning and certain other consequences of external causes",6,Summer,5,31,obese,"old-aged adult",50,24,1,1,0,178,98,1,0,"275,089",13
+713,"Injury, poisoning and certain other consequences of external causes",6,Summer,6,21,"healthy weight","middle-aged adult",31,8,2,1,0,178,68,1,8,"275,089",51
+714,"physiotherapy ",6,Summer,6,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"275,089",26
+715,Unkown,6,Summer,2,33,obese,"old-aged adult",48,0,1,0,1,163,88,1,5,"275,089",29
+716,Unkown,6,Summer,2,25,"healthy weight","middle-aged adult",33,0,2,0,0,178,79,0,0,"275,089",11
+717,"Injury, poisoning and certain other consequences of external causes",6,Summer,5,31,obese,"old-aged adult",50,3,1,1,0,178,98,1,0,"275,089",13
+718,"Diseases of the musculoskeletal system and connective tissue",6,Summer,5,19,"healthy weight","yound adult",30,2,3,0,0,171,56,0,0,"275,089",26
+719,"dental consultation ",6,Summer,5,25,"healthy weight","middle-aged adult",40,2,1,1,0,171,73,1,1,"275,089",31
+720,"Diseases of the musculoskeletal system and connective tissue",6,Summer,2,19,"healthy weight","yound adult",30,3,3,0,0,171,56,0,0,"275,089",26
+721,"laboratory examination ",6,Summer,2,28,overweight,"middle-aged adult",37,3,1,0,0,172,83,0,0,"275,089",10
+722,"patient follow-up ",6,Summer,5,21,"healthy weight","middle-aged adult",31,8,2,1,0,178,68,1,8,"275,089",51
+723,"Diseases of the ear and mastoid process",6,Summer,6,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"275,089",10
+724,"Diseases of the respiratory system",6,Summer,4,28,overweight,"middle-aged adult",37,3,1,0,0,172,83,0,0,"275,089",10
+725,"patient follow-up ",6,Summer,4,21,"healthy weight","middle-aged adult",31,3,2,1,0,178,68,1,8,"275,089",51
+726,"unjustified absence ",7,Summer,4,38,obese,"middle-aged adult",43,4,1,1,0,167,106,1,0,"264,604",20
+727,"Injury, poisoning and certain other consequences of external causes",7,Summer,6,21,"healthy weight","middle-aged adult",31,2,2,1,0,178,68,1,8,"264,604",51
+728,"Diseases of the nervous system",7,Summer,2,22,"healthy weight","old-aged adult",58,8,1,0,0,172,65,2,1,"264,604",14
+729,"dental consultation ",7,Summer,2,28,overweight,"middle-aged adult",37,4,1,0,0,172,83,0,0,"264,604",10
+730,"Diseases of the nervous system",7,Summer,3,22,"healthy weight","old-aged adult",58,120,1,0,0,172,65,2,1,"264,604",14
+731,"patient follow-up ",7,Summer,3,25,"healthy weight","middle-aged adult",33,16,1,0,0,167,69,2,2,"264,604",29
+732,"medical consultation ",7,Summer,4,28,overweight,"middle-aged adult",37,2,1,0,0,172,83,0,0,"264,604",10
+733,"patient follow-up ",7,Summer,4,27,overweight,"yound adult",28,8,1,1,0,172,80,1,4,"264,604",52
+734,"patient follow-up ",7,Summer,4,24,"healthy weight","yound adult",28,8,1,0,0,169,69,1,2,"264,604",26
+735,"Diseases of the musculoskeletal system and connective tissue",7,Summer,2,25,"healthy weight","middle-aged adult",31,80,1,1,0,169,70,3,0,"264,604",17
+736,"Diseases of the genitourinary system",7,Summer,3,30,overweight,"middle-aged adult",33,8,1,1,0,172,90,2,1,"264,604",36
+737,"Diseases of the digestive system",7,Summer,3,29,overweight,"middle-aged adult",37,4,3,0,0,172,88,1,1,"264,604",11
+738,Unkown,0,Unknown,3,34,obese,"middle-aged adult",40,0,1,1,0,170,98,1,8,"271,219",14
+739,Unkown,0,Unknown,4,35,obese,"middle-aged adult",39,0,1,1,0,170,100,2,2,"271,219",35
+740,Unkown,0,Unknown,6,25,"healthy weight","old-aged adult",53,0,1,0,0,175,77,1,1,"271,219",45
